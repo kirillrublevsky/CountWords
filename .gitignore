@@ -1,0 +1,13 @@
+target/*
+*/.idea/*
+*-dbg.*
+*/.settings/*
+.classpath
+.project
+.settings
+.idea
+*.iml
+bin
+*.ipr
+*.iws
+MANIFEST.MF
